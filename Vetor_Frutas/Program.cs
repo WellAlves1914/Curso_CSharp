@@ -18,8 +18,8 @@
             Console.WriteLine("A última fruta é " + frutas_ultimas);
             int frutas_altas = precos.Max();
             int frutas_baixas = precos.Min();
-            Console.WriteLine(" A fruta mais cara custa R$ " + frutas_altas);
-            Console.WriteLine(" A fruta mais barata custa R$ " + frutas_baixas);
+            Console.WriteLine("A fruta mais cara custa R$ " + frutas_altas);
+            Console.WriteLine("A fruta mais barata custa R$ " + frutas_baixas);
         }
     }
 }

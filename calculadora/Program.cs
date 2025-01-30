@@ -10,7 +10,7 @@ namespace calculadora
             int num1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Digite o segundo número");
             int num2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Digite o operador (1=+, 2=-, 3=*, 4=/ ");
+            Console.WriteLine("Digite o operador (1= +, 2= -, 3= *, 4= / ");
             string conta = Console.ReadLine();
 
             if (conta == "+")
